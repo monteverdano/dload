@@ -2,6 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Follow me on Twitter @monteverdano. Have fun!</string>
+	</dict>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -2007,16 +2012,20 @@
 			<string>https://monteverdano.github.io/appinstaller/</string>
 		</dict>
 	</array>
+	<key>PayloadDescription</key>
+	<string>A web-based App Installer linking to signed apps.</string>
 	<key>PayloadDisplayName</key>
-	<string>Untitled 3</string>
+	<string>App Installer</string>
 	<key>PayloadIdentifier</key>
-	<string>Lions-Mac.429BD57B-4DB2-56C2-AAA7-847C74C7A906</string>
+	<string>appinstaller</string>
+	<key>PayloadOrganization</key>
+	<string>monteverdano</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>568BCD4A-38D9-8557-8D0C-C1F961C4DA22</string>
+	<string>1CCC9458-0CE7-4451-9987-0D7D16AB2D83</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
