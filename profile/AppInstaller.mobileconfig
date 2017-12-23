@@ -2006,18 +2006,5 @@
 			<key>URL</key>
 			<string>https://monteverdano.github.io/appinstaller/</string>
 		</dict>
-	</array>
-	<key>PayloadDisplayName</key>
-	<string>Untitled 3</string>
-	<key>PayloadIdentifier</key>
-	<string>Lions-Mac.429BD57B-4DB2-49C2-AAA7-847C74C7A906</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>568BCD4A-38D9-4257-8D0C-C1F961C4DA22</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
 </dict>
 </plist>
